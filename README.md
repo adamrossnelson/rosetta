@@ -6,6 +6,10 @@ This crosswalk aims to provide multiple similar projects in different environmen
 
 Aside from being useful in practice as a crosswalk this project can be useful in teaching each language or in learning statistics.
 
+## For Similar Examples
+
+See: [BadgerGameday](https://github.com/adamrossnelson/BadgerGameday) or [crossreg](https://github.com/adamrossnelson/crossreg).
+
 ## Questions, Comments, Hatemail
 Send me your questions, comments, and tell me what I did wrong.
 
